@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652289006 source:c:\users\luan canuto\documents\pi 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
